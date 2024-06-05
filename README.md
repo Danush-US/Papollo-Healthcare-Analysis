@@ -8,6 +8,6 @@
 Overcame difficulties with data integration and made sure that advanced transformation techniques were used to ensure proper analysis.
 - Exhibited analytical reasoning, meticulousness, and skillful conveying of intricate insights to stakeholders who are not technical.
 
-  ## I Developed a PoerwBI Dashboard
+## I Developed a PoerwBI Dashboard
 
   
