@@ -10,4 +10,7 @@ Overcame difficulties with data integration and made sure that advanced transfor
 
 ## I Developed a PoerwBI Dashboard
 
+
+https://github.com/Danush-US/Papollo-Healthcare-Analysis/blob/main/Papollo.pbix
+
   
